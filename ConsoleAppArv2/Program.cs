@@ -13,7 +13,7 @@ namespace ConsoleAppArv2
             Apartment MyApartment = new Apartment();
             MyApartment.SetAddress("Lugna gatan 1");
             MyApartment.SetMonthlyFee(8500.0);
-            //
+            // igen
             // Test
             //Hej
 
